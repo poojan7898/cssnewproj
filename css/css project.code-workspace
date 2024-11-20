@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../css main/project"
+		},
+		{
+			"path": "../../css main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "css project"
+	}
+}
